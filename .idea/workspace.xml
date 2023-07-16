@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0290d1e2-dd8b-4b29-8680-5ce90c37f74a" name="Changes" comment="1.0.1-删除idea中的文件" />
+    <list default="true" id="0290d1e2-dd8b-4b29-8680-5ce90c37f74a" name="Changes" comment="1.0.1-删除idea中的文件">
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/cian/test/TestChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/cian/test/TestChange.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0.1-删除idea中的文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0.1-删除idea中的文件" />
+    <MESSAGE value="feature分支中修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature分支中修改" />
   </component>
 </project>
